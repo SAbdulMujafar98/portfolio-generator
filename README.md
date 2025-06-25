@@ -14,4 +14,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # portfolio-generator
 e08129e5a2fc17d8b0b93834542f45b2735d8e65
-# portfolio-generator
+# edited readme file
